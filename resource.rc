@@ -1,0 +1,20 @@
+// Include Files
+#include "Resource.h"
+
+// Icons
+IDI_ASTEROIDICON     ICON         "Res\\asteroidIcon.ico"
+
+// Bitmaps
+IDB_GROUND            BITMAP       "Res\\Ground.bmp"
+IDB_TARGET            BITMAP       "Res\\Target.bmp"
+IDB_CITY              BITMAP       "Res\\City.bmp"
+IDB_ASTEROID          BITMAP       "Res\\Asteroid.bmp"
+IDB_MISSILE           BITMAP       "Res\\Missile.bmp"
+IDB_EXPLOSION         BITMAP       "Res\\Explosion.bmp"
+IDB_GAMEOVER          BITMAP       "Res\\GameOver.bmp"
+IDB_WSCREEN           BITMAP       "Res\\spaceWelcome.bmp"
+
+// Wave Sounds
+IDW_FIRE              WAVE         "Res\\Fire.wav"
+IDW_EXPLODE           WAVE         "Res\\Explode.wav"
+IDW_BIGEXPLODE        WAVE         "Res\\BigExplode.wav"

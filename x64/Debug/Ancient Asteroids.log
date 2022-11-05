@@ -1,0 +1,16 @@
+﻿  AncientAsteroids.cpp
+c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\gameengine.h(67): error C2440: 'default argument': cannot convert from 'const char [1]' to 'LPTSTR'
+  c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\gameengine.h(67): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\ancientasteroids.cpp(9): error C2664: 'GameEngine::GameEngine(const GameEngine &)': cannot convert argument 2 from 'const char [18]' to 'LPTSTR'
+  c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\ancientasteroids.cpp(10): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\ancientasteroids.cpp(48): error C2664: 'void GameEngine::PlayMIDISong(LPTSTR,BOOL)': cannot convert argument 1 from 'const char [10]' to 'LPTSTR'
+  c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\ancientasteroids.cpp(48): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\ancientasteroids.cpp(85): error C2664: 'void GameEngine::PlayMIDISong(LPTSTR,BOOL)': cannot convert argument 1 from 'const char [1]' to 'LPTSTR'
+  c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\ancientasteroids.cpp(85): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  Background.cpp
+  Bitmap.cpp
+  GameEngine.cpp
+c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\gameengine.h(67): error C2440: 'default argument': cannot convert from 'const char [1]' to 'LPTSTR'
+  c:\users\dream pc\desktop\x documents\pro\git\ancient asteroids\gameengine.h(67): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  Sprite.cpp
+  Generating Code...
